@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    
+}
+#top_banner{
+    background-image: url(/images/first\ pic.jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    
+}
+h1{
+    font-size: 70px;
+    color: #fff;
+    padding-left: 15%;
+    padding-top: 10%;
+}
+span{
+    padding-left: 20%;
+}
+p{
+    color:#fff;
+    font-size: 30px;
+    padding-left: 20%;
+}
+.link_button{
+    text-decoration: none;
+    background-image:linear-gradient(#a600ff, #f0482a);
+    color:#fff;
+    font-weight:700;
+    border-radius: 5px;
+    position: absolute;
+    top:420px;
+    left:620px;
+    padding: 10px 40px;
+    
+
+}
+
