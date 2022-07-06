@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    padding: 0;
 }
 body{
     font-family: 'Anton', sans-serif;
@@ -25,9 +26,9 @@ h1{
 span{
     padding-left: 20%;
 }
-p{
+#top-peragraph{
     color:#fff;
-    font-size: 30px;
+    font-size: 25px;
     padding-left: 20%;
 }
 .link_button{
@@ -37,10 +38,22 @@ p{
     font-weight:700;
     border-radius: 5px;
     position: absolute;
-    top:420px;
+    top:430px;
     left:620px;
     padding: 10px 40px;
-    
-
 }
 
+
+h2{
+    font-size:40px;
+    margin: 100px 0 0 600px;
+}
+p{
+    font-size: 19px;
+    padding-left:20%;
+    padding-right:20% ;
+}
+.bold{
+    font-weight:700;
+    padding-left: 40%;
+}
