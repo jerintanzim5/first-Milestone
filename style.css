@@ -9,13 +9,13 @@ body{
     
 }
 .top_banner{
-    background-image: url(/images/first\ pic.jpg);
-    height: 700px;
+    background-image: url(images/first-pic.jpg);
+    height:700px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    position: relative;
-    
+    position: relative; 
+           
 }
 h1{
     font-size: 70px;
