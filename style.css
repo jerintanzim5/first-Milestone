@@ -8,7 +8,7 @@ body{
     font-family: 'Roboto Mono', monospace;
     
 }
-#top_banner{
+.top_banner{
     background-image: url(/images/first\ pic.jpg);
     height: 700px;
     background-repeat: no-repeat;
