@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body{
     font-family: 'Anton', sans-serif;
@@ -42,8 +43,6 @@ span{
     left:620px;
     padding: 10px 40px;
 }
-
-
 h2{
     font-size:40px;
     margin: 100px 0 0 600px;
@@ -56,4 +55,52 @@ p{
 .bold{
     font-weight:700;
     padding-left: 40%;
+}
+
+
+
+.money-box{
+    display: flex;
+    margin:50px 550px;
+    
+}
+.money-box1{
+    width:90px;
+    height:70px;
+    background-color:whitesmoke;
+    border-radius: 5px;
+    margin: 5px;
+    
+}
+.money-box2{
+    width:90px;
+    height:70px;
+    background-color: pink;
+    border-radius: 5px;
+    margin:5px;
+    
+}
+.money-box3{
+    width:90px;
+    height:70px;
+    background-color:whitesmoke;
+    border-radius: 5px;
+    margin:5px;
+}
+.money-box4{
+    width:90px;
+    height:70px;
+    background-color:whitesmoke;
+    border-radius: 5px;
+    margin:5px;
+    
+    
+}
+.money-box5{
+    width:90px;
+    height:70px;
+    background-color:whitesmoke;
+    border-radius: 5px;
+    margin:5px;
+    
 }
