@@ -9,7 +9,7 @@ body{
     font-family: 'Roboto Mono', monospace;
     
 }
-.top_banner{
+#top_banner{
     background-image: url(images/first-pic.jpg);
     height:700px;
     background-repeat: no-repeat;
@@ -43,6 +43,9 @@ span{
     left:620px;
     padding: 10px 40px;
 }
+
+
+
 h2{
     font-size:40px;
     margin: 100px 0 0 600px;
@@ -61,46 +64,84 @@ p{
 
 .money-box{
     display: flex;
-    margin:50px 550px;
+    margin:50px 450px;
     
 }
 .money-box1{
-    width:90px;
+    width:100px;
     height:70px;
     background-color:whitesmoke;
     border-radius: 5px;
-    margin: 5px;
+    margin:5px;
+    padding-top:20px;
+    padding-right:25px;
+    padding-left:15px;
+    font-weight: 700;
+    font-size: 20px;
+    font-family:Tahoma;
+    color: gray;
     
 }
 .money-box2{
-    width:90px;
+    width:100px;
     height:70px;
     background-color: pink;
     border-radius: 5px;
     margin:5px;
+    border: 2px solid red;
+    padding-top:20px;
+    padding-right:25px;
+    padding-left:15px;
+    font-weight: 700;
+    font-size: 20px;
+    font-family:Tahoma;
+    color: gray;
     
 }
 .money-box3{
-    width:90px;
+    width:100px;
     height:70px;
     background-color:whitesmoke;
     border-radius: 5px;
     margin:5px;
+    padding-top:20px;
+    padding-right:25px;
+    padding-left:15px;
+    font-weight: 700;
+    font-size: 20px;
+    font-family:Tahoma;
+    color: gray;
 }
 .money-box4{
-    width:90px;
+    width:100px;
     height:70px;
     background-color:whitesmoke;
     border-radius: 5px;
     margin:5px;
+    padding-top:20px;
+    padding-right:25px;
+    padding-left:15px;
+    font-weight: 700;
+    font-size: 20px;
+    font-family:Tahoma;
+    color: gray;
     
     
 }
 .money-box5{
-    width:90px;
+    width:100px;
     height:70px;
     background-color:whitesmoke;
     border-radius: 5px;
     margin:5px;
+    padding-top:20px;
+    padding-right:25px;
+    padding-left:15px;
+    font-weight: 700;
+    font-size: 20px;
+    font-family:Tahoma;
+    color: gray;
+    
+
     
 }
