@@ -154,3 +154,12 @@ p{
     padding:0 0 10px 280px;
 }
 
+.donate{
+    margin-left: 650px;
+    padding:10px 40px;
+    background-image:linear-gradient(#ba6464,#856b0e);
+    border: none;
+    border-radius: 5px;
+    color:#fff;
+    font-weight: 700;    
+}
