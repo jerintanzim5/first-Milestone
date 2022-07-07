@@ -3,12 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
 body{
+   
     font-family: 'Anton', sans-serif;
     font-family: 'Poppins', sans-serif;
-    font-family: 'Roboto Mono', monospace;
-    
+    font-family: 'Roboto Mono', monospace;    
 }
+
+
 #top_banner{
     background-image: url(images/first-pic.jpg);
     height:700px;
@@ -79,8 +83,7 @@ p{
     font-weight: 700;
     font-size: 20px;
     font-family:Tahoma;
-    color: gray;
-    
+    color: gray;    
 }
 .money-box2{
     width:100px;
@@ -95,8 +98,7 @@ p{
     font-weight: 700;
     font-size: 20px;
     font-family:Tahoma;
-    color: gray;
-    
+    color: gray;    
 }
 .money-box3{
     width:100px;
@@ -125,8 +127,6 @@ p{
     font-size: 20px;
     font-family:Tahoma;
     color: gray;
-    
-    
 }
 .money-box5{
     width:100px;
@@ -140,8 +140,17 @@ p{
     font-weight: 700;
     font-size: 20px;
     font-family:Tahoma;
-    color: gray;
-    
-
-    
+    color:grey;    
 }
+.other-amount{
+    width: 700px;
+    border: none;
+    border-bottom:2px solid #eae0e0;
+    margin-left: 350px;
+    margin-right:300px;
+    padding-bottom:5px;        
+}
+::placeholder{
+    padding:0 0 10px 280px;
+}
+
